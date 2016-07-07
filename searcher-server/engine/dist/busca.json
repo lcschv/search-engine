@@ -1,0 +1,24 @@
+{
+	"results": [
+		{
+			"title": "hello",
+			"url": "/lucas",
+			"snippet": "esse texto de snipet é um exemplo de teste a ser verificado"
+		},
+		{
+			"title": "hello 2",
+			"url": "/lucas",
+			"snippet": "esse texto de snipet é um exemplo de teste a ser verificado"
+		},
+		{
+			"title": "hello 3",
+			"url": "/lucas",
+			"snippet": "esse texto de snipet é um exemplo de teste a ser verificado"
+		},
+		{
+			"title": "hello 4",
+			"url": "/lucas",
+			"snippet": "esse texto de snipet é um exemplo de teste a ser verificado"
+		}
+	]
+}
