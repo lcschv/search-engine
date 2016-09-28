@@ -1,0 +1,13 @@
+Search Engine
+The goal of this work was to develop an system to efficiently and effectively Search engine system.
+This system consist of 3 types of ranking:
+ - Vector Model
+ - PageRank 
+ - Anchor text
+We also created an web interface for the engine. In this interface you will be able to choose the type of ranking that you want to use.
+- Combination of Vector model with pagerank.
+- Combination of Vector model with anchortex.
+
+Feel free to look at it.
+
+For more details email: lcs.chv@gmail.com
